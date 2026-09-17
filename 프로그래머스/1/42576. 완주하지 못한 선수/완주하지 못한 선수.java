@@ -22,6 +22,6 @@ class Solution {
             }
         }
         
-        return ""; // 기본 리턴
+        return "";
     }
 }
